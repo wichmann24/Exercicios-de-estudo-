@@ -1,2 +1,2 @@
-# Meus-projetos
-Meus projetos e estudos 
+# Exercicios de estudos
+
